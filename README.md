@@ -1,4 +1,4 @@
-# scikit-learn-analyze-clothing-dataset
+# Analyze clothing dataset with scikit-learn 
 __Analyzing clothing dataset with using scikit-learn that is machine learning library__
 
 This include creating, analysing and generating predictions with classification model that involving machine learning techniques.
@@ -33,6 +33,5 @@ https://drive.google.com/file/d/1G8cf7AzeF8UvnMP054giDrP7Tb9qVEmI/view?usp=shari
 
 __test.csv__
 https://drive.google.com/file/d/13K2nIYkZtjw_GOwfc0S04SjauDT7D1xv/view?usp=sharing
-
-![Screenshot_1](https://user-images.githubusercontent.com/43733194/76325297-34795600-62f8-11ea-9aae-bf4c9ca9ae96.png)
+<img src="https://user-images.githubusercontent.com/43733194/76325297-34795600-62f8-11ea-9aae-bf4c9ca9ae96.png" width="550">
 
